@@ -15,7 +15,7 @@
 	<name>pcs</name>
 	<description>people care system</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
