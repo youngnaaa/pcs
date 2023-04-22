@@ -17,6 +17,6 @@ public class APIController {
 
 	@PostMapping("/")
 	public String main() {
-		return "ddddd";
+		return "test";
 	}
 }
